@@ -20,6 +20,10 @@
         <spring-cloud.version>Hoxton.SR3</spring-cloud.version>
     </properties>
 
+    <modules>
+        <module>e-school-service-gateway-api</module>
+    </modules>
+
     <dependencies>
         <dependency>
             <groupId>org.springframework.cloud</groupId>
