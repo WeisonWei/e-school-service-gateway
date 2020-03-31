@@ -12,6 +12,7 @@
     <artifactId>e-school-service-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>e-school-service-gateway</name>
+    <packaging>pom</packaging>
     <description>Demo project for Spring Boot</description>
 
     <properties>
